@@ -1,5 +1,5 @@
 {
-    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "build", "node_modules"],
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "build", "node_modules", "coverage"],
 	"font_size": 14,
 	"ignored_packages":
 	[
